@@ -1,2 +1,2 @@
 # break-time
-A PowerShell script that helps you remeber to take breaks.
+A Powershell script that prompts the user to take regular breaks based on the provided interval in minutes. Each prompt displays a randomly selected clever and funny message!
